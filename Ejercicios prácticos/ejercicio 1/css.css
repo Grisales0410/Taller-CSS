@@ -1,0 +1,35 @@
+ h1 {
+    color: cornflowerblue; font-weight: 150;
+}
+
+#pd {
+    color: darkmagenta;
+}
+
+.colorTexto{
+    color: fuchsia;
+    font-weight: bold;
+}
+.colorFondo{
+    background-color: lightblue;
+}
+
+img[tittle="CSS"]{
+    border: 10px solid pink;
+
+}
+
+h2, p{
+    color: lightcoral;
+}
+
+* h3{
+    color: aqua;
+}
+
+div p {
+    color: seagreen; font-weight: 100;
+
+}
+
+

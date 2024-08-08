@@ -1,0 +1,17 @@
+div + p +p{
+    background-color: cornflowerblue;
+}
+div ~ p{
+    font-size: 30px;
+}
+span>p{
+    color: blueviolet;
+}
+img[title="flowers"]{
+    border: 5px solid yellow;
+
+}
+
+p{
+    background-color: lightblue !important; 
+}
